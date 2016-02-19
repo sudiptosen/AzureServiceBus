@@ -1,0 +1,10 @@
+C:\mystuff\projects\trials\ConsoleServiceBus\ConsoleServiceBusTopicReader\bin\Debug\ConsoleServiceBusTopicReader.exe.config
+C:\mystuff\projects\trials\ConsoleServiceBus\ConsoleServiceBusTopicReader\bin\Debug\ConsoleServiceBusTopicReader.exe
+C:\mystuff\projects\trials\ConsoleServiceBus\ConsoleServiceBusTopicReader\bin\Debug\ConsoleServiceBusTopicReader.pdb
+C:\mystuff\projects\trials\ConsoleServiceBus\ConsoleServiceBusTopicReader\bin\Debug\Microsoft.ServiceBus.dll
+C:\mystuff\projects\trials\ConsoleServiceBus\ConsoleServiceBusTopicReader\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\mystuff\projects\trials\ConsoleServiceBus\ConsoleServiceBusTopicReader\bin\Debug\Microsoft.ServiceBus.xml
+C:\mystuff\projects\trials\ConsoleServiceBus\ConsoleServiceBusTopicReader\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\mystuff\projects\trials\ConsoleServiceBus\ConsoleServiceBusTopicReader\obj\Debug\ConsoleServiceBusTopicReader.csprojResolveAssemblyReference.cache
+C:\mystuff\projects\trials\ConsoleServiceBus\ConsoleServiceBusTopicReader\obj\Debug\ConsoleServiceBusTopicReader.exe
+C:\mystuff\projects\trials\ConsoleServiceBus\ConsoleServiceBusTopicReader\obj\Debug\ConsoleServiceBusTopicReader.pdb

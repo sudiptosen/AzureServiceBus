@@ -1,0 +1,10 @@
+C:\mystuff\projects\trials\ConsoleServiceBus\ConsoleServiceBusReader\bin\Debug\ConsoleServiceBusReader.exe.config
+C:\mystuff\projects\trials\ConsoleServiceBus\ConsoleServiceBusReader\bin\Debug\ConsoleServiceBusReader.exe
+C:\mystuff\projects\trials\ConsoleServiceBus\ConsoleServiceBusReader\bin\Debug\ConsoleServiceBusReader.pdb
+C:\mystuff\projects\trials\ConsoleServiceBus\ConsoleServiceBusReader\bin\Debug\Microsoft.ServiceBus.dll
+C:\mystuff\projects\trials\ConsoleServiceBus\ConsoleServiceBusReader\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\mystuff\projects\trials\ConsoleServiceBus\ConsoleServiceBusReader\bin\Debug\Microsoft.ServiceBus.xml
+C:\mystuff\projects\trials\ConsoleServiceBus\ConsoleServiceBusReader\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\mystuff\projects\trials\ConsoleServiceBus\ConsoleServiceBusReader\obj\Debug\ConsoleServiceBusReader.exe
+C:\mystuff\projects\trials\ConsoleServiceBus\ConsoleServiceBusReader\obj\Debug\ConsoleServiceBusReader.pdb
+C:\mystuff\projects\trials\ConsoleServiceBus\ConsoleServiceBusReader\obj\Debug\ConsoleServiceBusReader.csprojResolveAssemblyReference.cache
